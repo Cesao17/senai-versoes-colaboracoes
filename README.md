@@ -95,3 +95,6 @@ Contribuidores
 Quais foram os contribuidores que auxiliaram no desenvolvimento do projeto? Caso a pessoa tenha algum problema ou queira fornecer um feedback, indique como ela pode se comunicar com você.
 
 ---
+
+lembrei do comando: git commit
+ckout exemplo-branch
